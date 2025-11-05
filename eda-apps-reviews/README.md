@@ -56,3 +56,16 @@ pip install -r requirements.txt
 
 # Open the Jupyter Notebook
 jupyter notebook notebooks/eda_apps_reviews.ipynb
+
+## 📚 Author
+**Shaik Abdul Musavir**  
+_Data Scientist | Data Analytics | Python | Visualization_  
+
+🌐 [LinkedIn](https://www.linkedin.com/in/shaik-abdul-musavir-a33a10338)  
+💻 [GitHub](https://github.com/abdulmusavir-analyst)
+
+
+## 🪪 License
+MIT License © 2025 Shaik Abdul Musavir
+
+
